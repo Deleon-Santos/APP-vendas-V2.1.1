@@ -1,0 +1,28 @@
+                         {
+                             "Sistema em desenvolvimento, algumas funcionalidades podem  apresentar erros
+                          e falhas inesperadas, caso ocorram problemas reportem ao desenvolvedor  atraves
+                          do contato disponivel pra que as correções seja incorporadas ao codigo.Em brevo
+                          apresentaremos uma bibliotca. Aguardem!
+                          delps.santos1987@gmail.com , linkedin.com/in/deleon-santos-1b835a290
+                          
+                          PRIMEIROS PASSOS EM APP_VENDAS
+                          
+                          -Novo>
+                            -Pesqisar Produto: Pesquisa todos os produtos cadastrados ate o ultimo login.
+                            -Novo Produto:Cadastra um novo produto no banco de dados(OBS:o novo item sera
+                             exibido no proximo login).
+                            -Nova Compra: Habilita o numero de cupom e inicia a tela de registro.
+                                 -Botão OK: Confirma a escolha do item selacionado na entrada de produto.
+                                 -Botão DELETE: Permite excluir um item da seu carrinho de compra.
+                                 -Botão PAGAR: Permite pagar o sub total do carrinho de compra. 
+                                 -Botão VOLTAR: Permite cancelar o cupon ou sair de qualquer menu do APP.
+                          
+                          
+                          
+                          -Suporte>
+                             -Ajuda: Retorna um menu minimalista com as principais funcionalidades de app
+                             -Data: permite alterar a data no sistema"
+
+                           - Diretorio e biblioteca do App>
+                              https://github.com/Deleon-Santos/APP-vendas-V2.1.1
+                          }

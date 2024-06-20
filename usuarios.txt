@@ -1,0 +1,5 @@
+[
+    {"nome": "Administrador", "senha": "1234"},
+    {"nome": "Operador1", "senha": "1234"},
+    {"nome": "Operador2", "senha": "1234"}
+]

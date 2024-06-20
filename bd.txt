@@ -1,0 +1,218 @@
+[
+    {
+        "cod": "101",
+        "ean": "7890000000101",
+        "item": "Acucar refinado Caravela pt 1kg",
+        "preco": 2.9
+    },
+    {
+        "cod": "102",
+        "ean": "7890000000102",
+        "item": "Cafe Melita extra forte 1kg",
+        "preco": 16.9
+    },
+    {
+        "cod": "103",
+        "ean": "7890000000103",
+        "item": "Leite integral Parmalate 1lt",
+        "preco": 5.9
+    },
+    {
+        "cod": "104",
+        "ean": "7890000000104",
+        "item": "Arroz Solito premio polido 5kg",
+        "preco": 15.9
+    },
+    {
+        "cod": "105",
+        "ean": "7890000000105",
+        "item": "Feijao carioca Kicaldo pt 1kg",
+        "preco": 6.9
+    },
+    {
+        "cod": "106",
+        "ean": "7890000000106",
+        "item": "Macarrao spaguete Adria 500g",
+        "preco": 3.9
+    },
+    {
+        "cod": "107",
+        "ean": "7890000000107",
+        "item": "Farinha de mandioca Yoki 500g",
+        "preco": 4.9
+    },
+    {
+        "cod": "108",
+        "ean": "7890000000115",
+        "item": "Farinha de trigo Dona benta 1kg",
+        "preco": 3.9
+    },
+    {
+        "cod": "109",
+        "ean": "7890000000115",
+        "item": "Achocolatado Toddy mais 500g",
+        "preco": 5.9
+    },
+    {
+        "cod": "110",
+        "ean": "7890000000115",
+        "item": "Oleo de soja Liza garrafa 900ml",
+        "preco": 5.9
+    },
+    {
+        "cod": "111",
+        "ean": "7890000000115",
+        "item": "Biscoito recheado Bono 350g",
+        "preco": 3.9
+    },
+    {
+        "cod": "112",
+        "ean": "7890000000115",
+        "item": "Chocolate barra Garoto 100g",
+        "preco": 5.9
+    },
+    {
+        "cod": "113",
+        "ean": "7890000000113",
+        "item": "Coco ralado Ducodo adocaado 100g",
+        "preco": 3.9
+    },
+    {
+        "cod": "114",
+        "ean": "7890000000114",
+        "item": "Molho de tomate Quero 340g",
+        "preco": 2.9
+    },
+    {
+        "cod": "115",
+        "ean": "7890000000115",
+        "item": "Carne seca dianteiro Vilieto pct 1kg",
+        "preco": 28.9
+    },
+    {
+        "cod": "116",
+        "ean": "7890000000116",
+        "item": "Fiba de milho Milharina 500g",
+        "preco": 2.9
+    },
+    {
+        "cod": "117",
+        "ean": "7890000000117",
+        "item": "Refrigerante Coca-Cola 2+250lt",
+        "preco": 8.9
+    },
+    {
+        "cod": "118",
+        "ean": "7890000000118",
+        "item": "Refresco Tang de sabores 35g",
+        "preco": 1.28
+    },
+    {
+        "cod": "119",
+        "ean": "7890000000119",
+        "item": "Azeite de oliva Andorinha 500ml",
+        "preco": 31.9
+    },
+    {
+        "cod": "120",
+        "ean": "7890000000120",
+        "item": "Carne moida congelada Berna 500g",
+        "preco": 2.9
+    },
+    {
+        "cod": "121",
+        "ean": "7890000000121",
+        "item": "Gelatina dr'otquer sabores 35g",
+        "preco": 1.9
+    },
+    {
+        "cod": "122",
+        "ean": "7890000000122",
+        "item": "Feijao de corda Carioquinha 1 kg",
+        "preco": 12.7
+    },
+    {
+        "cod": "123",
+        "ean": "7890000000123",
+        "item": "Farinha de mandioca Yoki 500g",
+        "preco": 7.3
+    },
+    {
+        "cod": "124",
+        "ean": "7890000000124",
+        "item": "Sabao em po Omo multiacao 500g",
+        "preco": 12.9
+    },
+    {
+        "cod": "125",
+        "ean": "7890000000125",
+        "item": "Mortadela defumada Sadia 100g",
+        "preco": 3.9
+    },
+    {
+        "cod": "126",
+        "ean": "7890000000126",
+        "item": "Margarina Qualy 500g",
+        "preco": 12.9
+    },
+    {
+        "cod": "127",
+        "ean": "7890000000127",
+        "item": "Farofa de milho Kitano 250g",
+        "preco": 6.9
+    },
+    {
+        "cod": "128",
+        "ean": "7890000000128",
+        "item": "Tempero caldo knor 60g",
+        "preco": 3.9
+    },
+    {
+        "cod": "129",
+        "ean": "7890000000129",
+        "item": "batata palha tradicional Yoki 90 g",
+        "preco": 3.9
+    },
+    {
+        "cod": "130",
+        "ean": "7890000000130",
+        "item": "queijo mussarela boafala 100g",
+        "preco": 5.6
+    },
+    {
+        "cod": "131",
+        "ean": "7892320006122",
+        "item": "Moargarina Doriana com sal 500g",
+        "preco": 12.95
+    },
+    {
+        "cod": "132",
+        "ean": "7894545010102",
+        "item": "Feijao carioca BoaSafra 1kg",
+        "preco": 13.9
+    },
+    {
+        "cod": "133",
+        "ean": "7891515232126",
+        "item": "Margarina Doriana com sal 500G",
+        "preco": 12.96
+    },
+    {
+        "cod": "134",
+        "ean": "7894546202021",
+        "item": "Pao de hamburgue Panco 6 uni",
+        "preco": 10.9
+    },
+    {
+        "cod": "135",
+        "ean": "7894561230123",
+        "item": "Detergente em po Omo Multi 2kg",
+        "preco": 10.45
+    },
+    {
+        "cod": "136",
+        "ean": "7891000325131",
+        "item": "Bombom Nestle 251g com 12 uni",
+        "preco": 12.95
+    }
+]
