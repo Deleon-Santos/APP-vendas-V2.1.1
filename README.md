@@ -7,19 +7,19 @@ Este projeto é um sistema de registro do tipo 'Caixa Registradora'. Utiliza a b
 
 ## Tecnologias Usadas
 
-- **Python 3.7+**
-- **PySimpleGUI**: Para a criação da interface gráfica.
-- **json**: Para manipulação de dados persistentes.
-- **ReportLab**: Para geração de PDFs (se necessário implementar).
+- ![Python](https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge&logo=python&logoColor=white) **Python 3.7+**
+- ![PySimpleGUI](https://img.shields.io/badge/PySimpleGUI-4.0+-brightgreen?style=for-the-badge&logo=pysimplegui&logoColor=white) **PySimpleGUI**: Para a criação da interface gráfica.
+- ![JSON](https://img.shields.io/badge/JSON-Data-blue?style=for-the-badge&logo=json&logoColor=white) **json**: Para manipulação de dados persistentes.
+- ![ReportLab](https://img.shields.io/badge/ReportLab-PDF-red?style=for-the-badge&logo=pdf&logoColor=white) **ReportLab**: Para geração de PDFs (se necessário implementar).
 
 ## Funcionalidades
 
 ### Gestão de Caixa
-![App Vendas](img1.png)
+![Gestão de Caixa](img1.png)
 - **Abertura e Fechamento do Caixa**: Controle do estado do caixa, abertura de novos cupons e fechamento ao final das operações.
 
 ### Registro de Vendas
-![App Vendas](img2.png)
+![Registro de Vendas](img2.png)
 - **Adicionar Itens ao Carrinho**: Permite adicionar produtos ao carrinho de compras com base no código EAN.
 - **Remover Itens do Carrinho**: Permite remover produtos já adicionados ao carrinho.
 - **Atualização de Preços e Totais**: Calcula automaticamente os preços unitários e totais dos itens no carrinho.
@@ -28,19 +28,19 @@ Este projeto é um sistema de registro do tipo 'Caixa Registradora'. Utiliza a b
 - **Pesquisa de Produtos**: Permite buscar produtos no banco de dados pelo código ou descrição.
 
 ### Cadastro de Produtos
-![App Vendas](img5.png)
+![Cadastro de Produtos](img5.png)
 - **Adicionar Novos Produtos**: Permite o cadastro de novos produtos no sistema.
 
 ### Pagamentos
-![App Vendas](img3.png)
+![Pagamentos](img3.png)
 - **Processamento de Pagamentos**: Calcula o valor total a pagar e registra a venda em dinheiro, cartão ou pix.
 
 ### Relatórios
-![App Vendas](img4.png)
-- **Visualização de Vendas Realizadas**: Exibe um histórico das vendas efetuadas a partir do numero do cupom.
+![Relatórios](img4.png)
+- **Visualização de Vendas Realizadas**: Exibe um histórico das vendas efetuadas a partir do número do cupom.
 
 ### Geração de PDFs
-- **Impressão de Compras em PDF**: Gera um recibo da compra em formato PDF para impressão .
+- **Impressão de Compras em PDF**: Gera um recibo da compra em formato PDF para impressão.
 
 ## Estrutura do Projeto
 
@@ -60,11 +60,3 @@ Este projeto é um sistema de registro do tipo 'Caixa Registradora'. Utiliza a b
 │   ├── ajuda.txt
 └── imagem
     └── imagem_venda.png
-```
-## Desenvolvedor
-- **Deleon Santos**: Este é um projeto autoral para fins academico, esta em desenvolvimento e segue conforme aprendo novas tecnologias ou maneiras de resolver problemas.
-
-## Versão
-- **v2.1.1**
-
-
